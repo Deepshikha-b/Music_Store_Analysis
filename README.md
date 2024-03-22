@@ -3,7 +3,7 @@ Environment: Postgresql
 
 Project Description:
 
-  This project involves working with a music store database to extract useful information through SQL queries. The aim is to gain insights into the business     operations of the music store by analyzing the data.
+  This project involves working with a online music store database to extract useful information through SQL queries. The aim is to gain insights into the business     operations of the music store by analyzing the data.
 
 Key Activities:
 
